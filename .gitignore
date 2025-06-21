@@ -1,0 +1,23 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.VC.db
+*.ipch/
+*.obj
+*.exe
+*.pdb
+*.log
+
+# VSCode
+.vscode/
+
+# Build output
+*.class
+*.out
+*.o
+*.dll
+*.lib
+*.tmp
+*.cache
+*.zip
